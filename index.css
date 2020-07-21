@@ -1,0 +1,11 @@
+.catbillboard{
+    background-image:url(images/cat.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    border-radius: 0px;
+    height: 400px;
+}
+
+#cattitle{
+  color:wheat;
+}
