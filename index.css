@@ -1,0 +1,11 @@
+.dogbillboard{
+    background-image:url(images/dog.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    border-radius: 0px;
+    height: 400px;
+}
+
+#dogtitle{
+  color:wheat;
+}
