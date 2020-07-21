@@ -1,3 +1,11 @@
+.catbillboard{
+    background-image:url(images/cat.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    border-radius: 0px;
+    height: 400px;
+}
+
 .dogbillboard{
     background-image:url(images/dog.jpg);
     background-repeat:no-repeat;
@@ -7,5 +15,9 @@
 }
 
 #dogtitle{
+  color:wheat;
+}
+
+#cattitle{
   color:wheat;
 }
